@@ -1,6 +1,6 @@
 # Surfs Up!
 
-![surfs-up.jpeg](Images/surfs-up.jpeg)
+![surfs-up.jpeg](Charts/surfs-up.jpeg)
 
 You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii! To help with your trip planning, you need to do some climate analysis on the area. 
 
@@ -13,13 +13,11 @@ We use **Python**(Pandas, and Matplotlib) and **SQLAlchemy**(ORM queries) to do 
 * Use SQLAlchemy `automap_base()` to reflect your tables into classes and save a reference to those classes called `Station` and `Measurement`.
 
 ### Precipitation Analysis
-
-  ![precipitation](Charts/precipitation.png)
+![precipitation](Charts/precipitation.png)
 
 
 ### Station Analysis
-
-    ![station-histogram](Charts/frequency.png)
+![station-histogram](Charts/frequency.png)
 
 - - -
 
@@ -64,11 +62,9 @@ We designed a **Flask API** based on the queries that you have just developed.
 
 
 ### Temperature Analysis
-
-    ![temperature](Charts/temp.png)
+![temperature](Charts/temp.png)
 
 ### Daily Rainfall Average.
-
-  ![daily-normals](Charts/normals1.png)
+![daily-normals](Charts/normals1.png)
 
 
