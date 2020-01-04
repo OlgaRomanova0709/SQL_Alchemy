@@ -13,11 +13,13 @@ We use **Python**(Pandas, and Matplotlib) and **SQLAlchemy**(ORM queries) to do 
 * Use SQLAlchemy `automap_base()` to reflect your tables into classes and save a reference to those classes called `Station` and `Measurement`.
 
 ### Precipitation Analysis
-![precipitation](Charts/precipitation.png)
+ * Plot the results using the DataFrame `plot` method.
+   ![precipitation](Charts/precipitation.png)
 
 
 ### Station Analysis
-![station-histogram](Charts/frequency.png)
+ * Plot the results using the DataFrame `plot` method.
+  ![frequency](Charts/frequency.png)
 
 - - -
 
@@ -62,9 +64,11 @@ We designed a **Flask API** based on the queries that you have just developed.
 
 
 ### Temperature Analysis
-![temperature](Charts/temp.png)
+ * Plot the results using the DataFrame `plot` method.
+   ![temp](Charts/temp.png)
 
 ### Daily Rainfall Average.
-![daily-normals](Charts/normals1.png)
+ * Plot the results using the DataFrame `plot` method.
+  ![normals1](Charts/normals1.png)
 
 
