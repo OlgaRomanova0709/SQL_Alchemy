@@ -64,11 +64,11 @@ We designed a **Flask API** based on the queries that you have just developed.
 
 
 ### Temperature Analysis
- * Plot the results using the DataFrame `plot` method.
+ * 
    ![temp](Charts/temp.png)
 
 ### Daily Rainfall Average.
- * Plot the results using the DataFrame `plot` method.
+ * 
   ![normals1](Charts/normals1.png)
 
 
