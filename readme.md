@@ -6,7 +6,7 @@ You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii!
 
 ## Step 1 - Climate Analysis and Exploration
 
-We use **Python**(Pandas, and Matplotlib) and **SQLAlchemy**(ORM queries) to do basic climate analysis and data exploration of our climate database. 
+I used **Python**(Pandas, and Matplotlib) and **SQLAlchemy**(ORM queries) to do basic climate analysis and data exploration of our climate database. 
 
 * Use SQLAlchemy `create_engine` to connect to your sqlite database.
 
